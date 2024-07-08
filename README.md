@@ -1,12 +1,10 @@
 # Apple Music Downloader V2
 
-Apple_Music_Downloader can now download songs automatically, with just song names as input.
-Selenium is used for browser automation and Requests for file downloading.
+This script leverages Selenium for browser automation and the Requests library for file downloading.
 
 ## How It Works
 
-Adding any song you want to download by editing 'songs.txt' file, then running main.py, songs will be downloaded automatically.
-It took 10~20 seconds for a single song to be downloaded on my Mac, plan your time properly.
+To download songs, simply add the desired song names to the 'songs.txt' file and run main.py. The script will automatically download the songs. On a Mac, each song typically takes about 10 to 20 seconds to download, so please plan accordingly.
 ![ap](https://github.com/Joezhou1211/AppleMusicDownloader_V2/assets/121386280/4479c8d9-f51e-4b50-ab86-62f4efe94d06)
 
 ## Disclaimer
