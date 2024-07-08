@@ -13,13 +13,6 @@ It took 10~20 seconds for a single song to be downloaded on my Mac, plan your ti
 
 This project is intended for educational purposes only. It should not be used for any commercial or profit-making activities.
 
-
-## Prerequisites
-
-- Python 3.x
-- Selenium library
-- Requests library
-
 ## Setup Instructions
 
 ### Step 1: Clone and Set Up the Environment
