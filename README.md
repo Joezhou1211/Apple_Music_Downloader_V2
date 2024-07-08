@@ -1,4 +1,4 @@
-# Apple_Music_Downloader
+# Apple Music Downloader V2
 
 This Downloader is the upgraded of Apple_Music_Downloader_V1
 It can now download songs in MP3 format automatically, with just SONG NAMES as input.
